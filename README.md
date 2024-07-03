@@ -3,8 +3,10 @@
 ## <div align="center">I'm Karthik, a computer science sophomore at SRMIST🚀</div>  
   
 
-### ⚡ Contact me: pm4272@srmist.edu.in  
+### ⚡ Contact me: manikantanp1313@gmail.com
   
+### ⚡ Interned as NLP and Data Science Intern at IIIT Hyderabad and Prism Intern at Samsung R&D Institute India 
+
 
 ### ⚡ Currently I am learning Backend Development and focusing on building custommised LLMs.   
   
