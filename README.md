@@ -5,20 +5,9 @@
 
 ### ⚡ Contact me: manikantanp1313@gmail.com
   
-### ⚡ Interned as NLP and Data Science Intern at IIIT Hyderabad and Prism Intern at Samsung R&D Institute India 
-
-
 ### ⚡ Currently I am learning Backend Development and focusing on building custommised LLMs.   
-  
 
 ### ⚡ Ask me about anything related to MERN stack and ML related technologies  
-  
-
-### ⚡ Hidden Talent: I can speak 6 Languages  
-
-
-### ⚡ Fun fact: I like to keep my night shift activated 24 x 7
-  
 
 <br/>  
 
