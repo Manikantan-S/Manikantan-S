@@ -5,7 +5,7 @@
 
 ### ⚡ Contact me: manikantanp1313@gmail.com
   
-### ⚡ Currently I am learning Backend Development and focusing on building custommised LLMs.   
+### ⚡ Currently I am learning Backend Development and focusing on building customised LLMs.   
 
 ### ⚡ Ask me about anything related to MERN stack and ML related technologies  
 
