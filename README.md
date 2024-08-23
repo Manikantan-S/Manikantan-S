@@ -3,7 +3,7 @@
 ## <div align="center">I'm Karthik, a computer science sophomore at SRMIST🚀</div>  
   
 
-### ⚡ Contact me: pkarthikmanikantan33@gmail.com
+### ⚡ Contact me: manikantanp1313@gmail.com
   
 ### ⚡ Currently I am learning Backend Development and focusing on building customised LLMs.   
 
